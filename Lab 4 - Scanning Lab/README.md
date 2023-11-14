@@ -1,6 +1,6 @@
 # Lab 4 - Scanning Lab
 
-For this lab, I started up the virtualization lab environment, including the kali and metasploitable machines. When all the machines are booted up and logged in, I opened a command prompt and ran the nmap commands below with the switches that have been provided. This lab will show ping sweeps and port scans of both TCP and UDP ports.
+For this lab, I started up the virtualization lab environment, including the kali and metasploitable machines. When all the machines are booted up and logged in, I opened the Kali Linux command prompt and ran the nmap commands below with the switches that have been provided. This lab will show ping sweeps and port scans of both TCP and UDP ports.
 
 ![Image1](Images/l4.1.JPG)
 ![Image2](Images/l4.2.JPG)
